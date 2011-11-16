@@ -1,0 +1,39 @@
+student {
+  display:block;
+  margin-top: 15px;
+  color: blue;
+}
+
+studentlist {
+	padding-left: 10px;
+}
+
+usn {
+  display: block;
+  color: red;
+}
+
+name {
+  display: block;
+  color: brown;
+}
+
+college {
+  display: block;
+  color: blue;
+}
+
+branch {
+  display: block;
+  color: maroon;
+}
+
+joindate {
+  display: block;
+  color: purple;
+}
+
+email {
+  display: block;
+  color: green;
+}

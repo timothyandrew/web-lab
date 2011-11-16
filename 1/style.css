@@ -1,0 +1,23 @@
+td, table {
+  border: 2px red solid;
+}
+
+td {
+  padding: 15px;
+}
+
+th {
+  padding: 5px;
+}
+
+li {
+  color: #F00;
+}
+
+.emphasis {
+  font-style: italic;
+}
+
+.orange {
+  color: orange;
+}
