@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="6b.xsl"?>
+<document>
+<studentlist>
+  <student>
+    <name>Homer Simpson</name>
+    <usn>1-800-5623-1234</usn>
+    <email>homer@simpson.com</email>
+    <college>CMRIT</college>
+    <branch>CS</branch>
+    <joindate>11 July 1994</joindate>
+  </student>
+  
+  <student>
+    <name>Peter Griffin</name>
+    <usn>1-800-5623-1234</usn>
+    <email>peter@familyguy.com</email>
+    <college>RV</college>
+    <branch>ECE</branch>
+    <joindate>15 Aug 1990</joindate>
+  </student>
+  
+  <student>
+    <name>Turanga Leela</name>
+    <usn>1-800-5124-1241</usn>
+    <email>turanga@leela.com</email>
+    <college>PESIT</college>
+    <branch>CS</branch>
+    <joindate>1 Jan 3001</joindate>
+  </student>
+  
+  <student>
+    <name>Stewie Griffin</name>
+    <usn>1-800-5623-1245</usn>
+    <email>stewie@simpson.com</email>
+    <college>CMRIT</college>
+    <branch>IS</branch>
+    <joindate>12 July 2000</joindate>
+  </student>      
+</studentlist>
+</document>
